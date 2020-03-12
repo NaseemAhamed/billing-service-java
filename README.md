@@ -23,21 +23,22 @@ UML - billing-service-java\uml.ucls
 
 SonarQube report -  billing-service-java\sonarqube results.png
 
+94.4% coverage, 15 unit tests, 0 bug, 0 vulnerabilities, 0 code smells, 0 debt and 0% duplications.
+
+
 ![Image](SonarQube%20results.jpg)
+
+# Executables
 
 Main class - src\main\java\com\retail\pricing\billing\CalculateBill.java
 
-Main Test Class - src\test\java\com\retail\pricing\billing\CalculateBillTest.java
+System Integration Test class - src\test\java\com\retail\pricing\billing\CalculateBillTest.java
 
 # Maven Script
 
-'mvn test' - To run unit test cases
+'mvn verify' - To run unit test cases and generate Jacoco report.
 
 To run SonarQube, download it from https://www.sonarqube.org/downloads/ and execute sonarqube-7.4\bin\windows-x86-64\StartSonar.bat depending on the OS and run 'mvn sonar:sonar' to deploy the package for code analysis.
-
-# Project status
-
-94.4% coverage, 15 unit tests, 0 bug, 0 vulnerabilities, 0 code smells, 0 debt and 0% duplications.
 
 
 
