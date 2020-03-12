@@ -40,9 +40,11 @@ System Integration Test class - src\test\java\com\retail\pricing\billing\Calcula
 
 2) After the execution, the coverage report can be viewed from target\jacoco-ut\index.html.
 
-3) To run SonarQube, download it from https://www.sonarqube.org/downloads/ and execute sonarqube-7.4\bin\windows-x86-64\StartSonar.bat depending on the OS
+3) To run SonarQube, download it from https://www.sonarqube.org/downloads/ and execute sonarqube-7.4\bin\windows-x86-64\StartSonar.bat depending on the OS. It will be up and running in http://localhost:9000 by default.
 
-4) Execute 'mvn sonar:sonar' to analyse the package for comprehensive report on code quality.
+4) Execute 'mvn sonar:sonar' to analyse the package for comprehensive report on code quality. 
+
+
 
 
 
