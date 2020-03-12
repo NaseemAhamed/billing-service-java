@@ -23,7 +23,7 @@ UML - billing-service-java\uml.ucls
 
 SonarQube report -  billing-service-java\sonarqube results.png
 
-100% coverage, 22 unit tests, 0 bug, 0 vulnerability, 0 code smell, 0 debt and 0% duplication.
+100% coverage, 22 unit and integration tests, 0 bug, 0 vulnerability, 0 code smell, 0 debt and 0% duplication.
 
 
 ![Image](SonarQube%20results.jpg)
