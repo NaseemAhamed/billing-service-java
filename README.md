@@ -19,6 +19,8 @@ SonarQube - To perform code analysis and to record the coverage fed from Jacoco
 
 UML - billing-service-java\uml.ucls
 
+![Alt text](billing-service-java/UML Diagram.png)
+
 SonarQube report -  billing-service-java\sonarqube results.png
 
 Main class - src\main\java\com\retail\pricing\billing\CalculateBill.java
